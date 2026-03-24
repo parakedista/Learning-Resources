@@ -4,3 +4,4 @@
 - <https://frontendmasters.com/>
 - <https://www.theodinproject.com/>
 - <https://www.freecodecamp.org/>
+- <https://projecteuler.net/>
